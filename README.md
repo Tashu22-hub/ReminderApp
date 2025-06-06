@@ -14,7 +14,7 @@ This is a REST API that accepts and stores reminder requests with:
 npm init -y
 npm install express mongoose dotenv cors
 Add your MongoDB URI to .env file:
-MONGO_URL=mongodb+srv://tashukumari129895:1KqfUTmqKsOlXn09@reminderdata.jdvnp46.mongodb.net/?retryWrites=true&w=majority&appName=reminderData
+MONGO_URL=mongodb+srv://tashukumari:1KqfUTmqKsOlXn09@reminderdata.jdvnp46.mongodb.net/?retryWrites=true&w=majority&appName=reminderData
 
 Start the server: npm start
 📮 API Endpoint - port(5000)
