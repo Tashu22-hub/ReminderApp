@@ -17,7 +17,7 @@ Add your MongoDB URI to .env file:
 MONGO_URL=mongodb+srv://tashukumari129895:1KqfUTmqKsOlXn09@reminderdata.jdvnp46.mongodb.net/?retryWrites=true&w=majority&appName=reminderData
 
 Start the server: npm start
-📮 API Endpoint
+📮 API Endpoint - port(5000)
 POST /api/reminders
 Body:
 {
